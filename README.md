@@ -8,3 +8,4 @@ second commit
 fourth commit from test feature
 
 fifith commit from master
+sixth commit from master
